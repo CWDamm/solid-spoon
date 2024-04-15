@@ -1,2 +1,2 @@
 # solid-spoon
-Lecture follow along
+Lecture follow along read me file. 
